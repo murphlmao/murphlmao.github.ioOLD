@@ -161,7 +161,7 @@ box-shadow: none;
   left: 0;
   bottom: 0;
   right: 0;
-  background: no-repeat;
+  background: repeat;
 }
 
 a:hover {
